@@ -14,7 +14,7 @@
 [remove k digits](https://leetcode.com/problems/remove-k-digits/)\
 [reconstruct original digits from english](https://leetcode.com/problems/reconstruct-original-digits-from-english/)\
 [expressive words](https://leetcode.com/problems/expressive-words/)\
-DS STUDY PLAN LEETCODE:
+DS STUDY PLAN LEETCODE:\
 [contains duplicate](https://leetcode.com/problems/contains-duplicate/)\
 [merge sorted array](https://leetcode.com/problems/merge-sorted-array/)\
 [reshape the matrix](https://leetcode.com/problems/reshape-the-matrix/)\
