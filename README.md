@@ -14,15 +14,15 @@
 [remove k digits](https://leetcode.com/problems/remove-k-digits/)\
 [reconstruct original digits from english](https://leetcode.com/problems/reconstruct-original-digits-from-english/)\
 [expressive words](https://leetcode.com/problems/expressive-words/)\
-#SDE SHEET \
-#DAY1: \
+SDE SHEET \
+DAY1: \
 [set matrix to zero](https://leetcode.com/problems/set-matrix-zeroes/)\
 [pascal's triangle](https://leetcode.com/problems/pascals-triangle/)\
 [next permutation](https://leetcode.com/problems/next-permutation/)\
 [kadane's algo](https://leetcode.com/problems/maximum-subarray/)\
 [sort 0's 1's 2's (dutch flag algo)](https://leetcode.com/problems/sort-colors/)\
 [buy stock (revise)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)\
-#DAY2:\
+DAY2:\
 [Rotate Image](https://leetcode.com/problems/rotate-image/)\
 [Merge Intervals](https://leetcode.com/problems/merge-intervals/)\
 [Merge 2 sorted arrays-method-1](https://www.techiedelight.com/inplace-merge-two-sorted-arrays/)\
