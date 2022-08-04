@@ -29,7 +29,7 @@ DS STUDY PLAN LEETCODE:\
 [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)\
 [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)\
 [Implementing Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)\
-[Binary Tree Preorder Travsersal](https://leetcode.com/problems/binary-tree-preorder-traversal/)\
+[Binary Tree Preorder Travsersal](https://leetcode.com/problems/binary-tree-preorder-traversal/)
 
 SDE SHEET \
 DAY1: \
