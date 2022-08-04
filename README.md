@@ -27,4 +27,4 @@ DAY2:\
 [Merge Intervals](https://leetcode.com/problems/merge-intervals/)\
 [Merge 2 sorted arrays-method-1](https://www.techiedelight.com/inplace-merge-two-sorted-arrays/)\
 [merge 2 sorted arrays-method-2](https://www.geeksforgeeks.org/efficiently-merging-two-sorted-arrays-with-o1-extra-space/)\
-[find both missing and repeating num](https://www.geeksforgeeks.org/find-a-repeating-and-a-missing-number/)\
+[find both missing and repeating num](https://www.geeksforgeeks.org/find-a-repeating-and-a-missing-number/)
