@@ -34,16 +34,19 @@ PREVIOUS COMPANY QUESTIONS \
 ARISTA:\
 [Largest lexicographical string with at most K consecutive elements](https://www.geeksforgeeks.org/largest-lexicographical-string-with-at-most-k-consecutive-elements/)\
 SDE SHEET \
-DAY1: \
+ARRAY1: \
 [set matrix to zero](https://leetcode.com/problems/set-matrix-zeroes/)\
 [pascal's triangle](https://leetcode.com/problems/pascals-triangle/)\
 [next permutation](https://leetcode.com/problems/next-permutation/)\
 [kadane's algo](https://leetcode.com/problems/maximum-subarray/)\
 [sort 0's 1's 2's (dutch flag algo)](https://leetcode.com/problems/sort-colors/)\
 [buy stock (revise)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)\
-DAY2:\
+ARRAY2:\
 [Rotate Image](https://leetcode.com/problems/rotate-image/)\
 [Merge Intervals](https://leetcode.com/problems/merge-intervals/)\
 [Merge 2 sorted arrays-method-1](https://www.techiedelight.com/inplace-merge-two-sorted-arrays/)\
 [merge 2 sorted arrays-method-2](https://www.geeksforgeeks.org/efficiently-merging-two-sorted-arrays-with-o1-extra-space/)\
-[find both missing and repeating num](https://www.geeksforgeeks.org/find-a-repeating-and-a-missing-number/)
+[find both missing and repeating num](https://www.geeksforgeeks.org/find-a-repeating-and-a-missing-number/)\
+DP:\
+[FIBONACCI](https://leetcode.com/problems/fibonacci-number/submissions/)
+
