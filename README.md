@@ -48,5 +48,6 @@ ARRAY2:\
 [merge 2 sorted arrays-method-2](https://www.geeksforgeeks.org/efficiently-merging-two-sorted-arrays-with-o1-extra-space/)\
 [find both missing and repeating num](https://www.geeksforgeeks.org/find-a-repeating-and-a-missing-number/)\
 DP:\
-[FIBONACCI](https://leetcode.com/problems/fibonacci-number/submissions/)
+[FIBONACCI](https://leetcode.com/problems/fibonacci-number/submissions/)\
+[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
 
