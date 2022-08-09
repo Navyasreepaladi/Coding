@@ -31,7 +31,7 @@ DS STUDY PLAN LEETCODE:\
 [Implementing Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)\
 [Binary Tree Preorder Travsersal](https://leetcode.com/problems/binary-tree-preorder-traversal/)\
 PREVIOUS COMPANY QUESTIONS \
-ARISTA:
+ARISTA:\
 [Largest lexicographical string with at most K consecutive elements](https://www.geeksforgeeks.org/largest-lexicographical-string-with-at-most-k-consecutive-elements/)\
 SDE SHEET \
 DAY1: \
