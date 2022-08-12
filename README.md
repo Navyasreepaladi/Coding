@@ -57,5 +57,5 @@ RECURSION:\
 [48.SUBSET SUM](https://takeuforward.org/data-structure/subset-sum-sum-of-all-subsets/)\
 [GFG SUBSET SUM](https://practice.geeksforgeeks.org/problems/subset-sums2234/1)\
 BINARY SEARCH:\
-[NTH ROOT OF A NUMBER](https://takeuforward.org/data-structure/nth-root-of-a-number-using-binary-search/)
-
+[49.NTH ROOT OF A NUMBER](https://takeuforward.org/data-structure/nth-root-of-a-number-using-binary-search/)\
+[50.IMPLEMENT STACK USING ARRAY](https://takeuforward.org/data-structure/implement-stack-using-array/)
