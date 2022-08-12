@@ -52,8 +52,8 @@ DP:\
 [45.Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)\
 GREEDY ALGO:\
 [46.N MEETINGS IN ONE ROOM -GFG](https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1)/
-[47.N MEETINGS IN ONE ROOM- SDE](https://takeuforward.org/data-structure/n-meetings-in-one-room/)
-RECURSION:
-[48.SUBSET SUM](https://takeuforward.org/data-structure/subset-sum-sum-of-all-subsets/)
+[47.N MEETINGS IN ONE ROOM- SDE](https://takeuforward.org/data-structure/n-meetings-in-one-room/)/
+RECURSION:\
+[48.SUBSET SUM](https://takeuforward.org/data-structure/subset-sum-sum-of-all-subsets/)/
 [GFG SUBSET SUM](https://practice.geeksforgeeks.org/problems/subset-sums2234/1)
 
