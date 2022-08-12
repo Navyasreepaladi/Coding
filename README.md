@@ -55,5 +55,7 @@ GREEDY ALGO:\
 [47.N MEETINGS IN ONE ROOM- SDE](https://takeuforward.org/data-structure/n-meetings-in-one-room/)\
 RECURSION:\
 [48.SUBSET SUM](https://takeuforward.org/data-structure/subset-sum-sum-of-all-subsets/)\
-[GFG SUBSET SUM](https://practice.geeksforgeeks.org/problems/subset-sums2234/1)
+[GFG SUBSET SUM](https://practice.geeksforgeeks.org/problems/subset-sums2234/1)\
+BINARY SEARCH:\
+[NTH ROOT OF A NUMBER](https://takeuforward.org/data-structure/nth-root-of-a-number-using-binary-search/)
 
