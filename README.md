@@ -49,5 +49,8 @@ ARRAY2:\
 [find both missing and repeating num](https://www.geeksforgeeks.org/find-a-repeating-and-a-missing-number/)\
 DP:\
 [FIBONACCI](https://leetcode.com/problems/fibonacci-number/submissions/)\
-[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
+[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)\
+GREEDY ALGO:\
+[N MEETINGS IN ONE ROOM -GFG](https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1)/
+[N MEETINGS IN ONE ROOM- SDE](https://takeuforward.org/data-structure/n-meetings-in-one-room/)
 
