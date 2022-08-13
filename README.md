@@ -58,4 +58,6 @@ RECURSION:\
 [GFG SUBSET SUM](https://practice.geeksforgeeks.org/problems/subset-sums2234/1)\
 BINARY SEARCH:\
 [49.NTH ROOT OF A NUMBER](https://takeuforward.org/data-structure/nth-root-of-a-number-using-binary-search/)\
-[50.IMPLEMENT STACK USING ARRAY](https://takeuforward.org/data-structure/implement-stack-using-array/)
+[50.NO OF OCCURENCES OF ELE IN ARRAY](https://www.geeksforgeeks.org/count-number-of-occurrences-or-frequency-in-a-sorted-array/)\
+STACK:\
+[51.IMPLEMENT STACK USING ARRAY](https://takeuforward.org/data-structure/implement-stack-using-array/)
