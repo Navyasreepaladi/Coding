@@ -63,3 +63,5 @@ STACK:\
 [51.IMPLEMENT STACK USING ARRAY](https://takeuforward.org/data-structure/implement-stack-using-array/)\
 STRINGS:\
 [52:REVERSE WORDS IN A STRING](https://leetcode.com/problems/reverse-words-in-a-string/)
+GRAPHS:\
+[53.BFS](https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1)
