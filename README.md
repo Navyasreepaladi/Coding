@@ -64,4 +64,6 @@ STACK:\
 STRINGS:\
 [52:REVERSE WORDS IN A STRING](https://leetcode.com/problems/reverse-words-in-a-string/)\
 GRAPHS:\
-[53.BFS](https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1)
+[53.BFS](https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1)\
+ARRAYS:\
+[54:Find maximum (or minimum) sum of a subarray of size k](https://www.geeksforgeeks.org/find-maximum-minimum-sum-subarray-size-k/#:~:text=Given%20an%20array%20of%20integers,%2C%2023%7D%20of%20size%204.)
