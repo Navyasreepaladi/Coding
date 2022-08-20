@@ -71,8 +71,8 @@ LINKED LIST:\
 [55.Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)\
 [56.Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)\
 [57.Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)\
-[58.]()\
-[59.]()\
+[58. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)\
+[59.Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)\
 [60.]()\
 [61.]()\
 [62.]()\
