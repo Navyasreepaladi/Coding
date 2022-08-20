@@ -66,4 +66,18 @@ STRINGS:\
 GRAPHS:\
 [53.BFS](https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1)\
 ARRAYS:\
-[54:Find maximum (or minimum) sum of a subarray of size k](https://www.geeksforgeeks.org/find-maximum-minimum-sum-subarray-size-k/#:~:text=Given%20an%20array%20of%20integers,%2C%2023%7D%20of%20size%204.)
+[54:Find maximum (or minimum) sum of a subarray of size k](https://www.geeksforgeeks.org/find-maximum-minimum-sum-subarray-size-k/#:~:text=Given%20an%20array%20of%20integers,%2C%2023%7D%20of%20size%204.)\
+LINKED LIST:\
+[55.Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)\
+[56.Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)\
+[57.Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)\
+[58.]()\
+[59.]()\
+[60.]()\
+[61.]()\
+[62.]()\
+[63.]()\
+[64.]()\
+[65.]()\
+[66.]()\
+
