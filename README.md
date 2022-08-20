@@ -73,7 +73,7 @@ LINKED LIST:\
 [57.Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)\
 [58. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)\
 [59.Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)\
-[60.]()\
+[60.Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)\
 [61.]()\
 [62.]()\
 [63.]()\
