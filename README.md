@@ -80,4 +80,6 @@ LINKED LIST:\
 [64.]()\
 [65.]()\
 [66.]()\
-
+SORTING ALGO:\
+[67.Insertion sort](https://www.geeksforgeeks.org/insertion-sort/)\
+[68.Selection sort]()
