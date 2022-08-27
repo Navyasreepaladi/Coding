@@ -82,4 +82,6 @@ LINKED LIST:\
 [66.]()\
 SORTING ALGO:\
 [67.Insertion sort](https://www.geeksforgeeks.org/insertion-sort/)\
-[68.Selection sort]()
+[68.Selection sort](https://www.geeksforgeeks.org/selection-sort/)\
+[69.Merge sort](https://www.geeksforgeeks.org/merge-sort/)\
+
