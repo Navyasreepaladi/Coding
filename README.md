@@ -84,4 +84,17 @@ SORTING ALGO:\
 [67.Insertion sort](https://www.geeksforgeeks.org/insertion-sort/)\
 [68.Selection sort](https://www.geeksforgeeks.org/selection-sort/)\
 [69.Merge sort](https://www.geeksforgeeks.org/merge-sort/)\
-
+STRINGS:\
+[70.reverse words in a string](https://takeuforward.org/data-structure/reverse-words-in-a-string/)\
+[71.longest palindromic string(naive)](https://leetcode.com/problems/longest-palindromic-substring/)\
+[72.]()\
+[73.]()\
+[74.]()\
+[75.]()\
+[76.]()\
+[77.]()\
+[78.]()\
+[79.]()\
+[80.]()\
+[81.]()\
+[82.]()\
