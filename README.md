@@ -74,8 +74,8 @@ LINKED LIST:\
 [58. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)\
 [59.Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)\
 [60.Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)\
-[61.]()\
-[62.]()\
+[61.Rotate linked list by k elements](https://leetcode.com/problems/rotate-list/)\
+[62.Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)\
 [63.]()\
 [64.]()\
 [65.]()\
@@ -87,15 +87,10 @@ SORTING ALGO:\
 STRINGS:\
 [70.reverse words in a string](https://takeuforward.org/data-structure/reverse-words-in-a-string/)\
 [71.longest palindromic string(naive)](https://leetcode.com/problems/longest-palindromic-substring/)\
-LINKED LISTS:\
-[72.Rotate linked list by k elements](https://leetcode.com/problems/rotate-list/)\
-[73.Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)\
-[74.]()\
-[75.]()\
-[76.]()\
-[77.]()\
-[78.]()\
-[79.]()\
-[80.]()\
-[81.]()\
-[82.]()\
+TREES:\
+[72.Preorder](https://leetcode.com/problems/binary-tree-preorder-traversal/)\
+[73.Inorder](https://leetcode.com/problems/binary-tree-inorder-traversal/)\
+[74.Postorder](https://leetcode.com/problems/binary-tree-postorder-traversal/)\
+[75.level order](https://leetcode.com/problems/binary-tree-level-order-traversal/)\
+[76.preorder iterative](https://leetcode.com/problems/binary-tree-preorder-traversal/)\
+[77.]
