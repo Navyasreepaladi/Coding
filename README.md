@@ -87,8 +87,9 @@ SORTING ALGO:\
 STRINGS:\
 [70.reverse words in a string](https://takeuforward.org/data-structure/reverse-words-in-a-string/)\
 [71.longest palindromic string(naive)](https://leetcode.com/problems/longest-palindromic-substring/)\
-[72.]()\
-[73.]()\
+LINKED LISTS:\
+[72.Rotate linked list by k elements](https://leetcode.com/problems/rotate-list/)\
+[73.Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)\
 [74.]()\
 [75.]()\
 [76.]()\
