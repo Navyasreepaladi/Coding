@@ -30,8 +30,6 @@ DS STUDY PLAN LEETCODE:\
 [29.Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)\
 [30.Implementing Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)\
 [31.Binary Tree Preorder Travsersal](https://leetcode.com/problems/binary-tree-preorder-traversal/)\
-PREVIOUS COMPANY QUESTIONS \
-ARISTA:\
 [32.Largest lexicographical string with at most K consecutive elements](https://www.geeksforgeeks.org/largest-lexicographical-string-with-at-most-k-consecutive-elements/)\
 SDE SHEET \
 ARRAY1: \
