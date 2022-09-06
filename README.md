@@ -84,14 +84,22 @@ SORTING ALGO:\
 [67.Insertion sort](https://www.geeksforgeeks.org/insertion-sort/)\
 [68.Selection sort](https://www.geeksforgeeks.org/selection-sort/)\
 [69.Merge sort](https://www.geeksforgeeks.org/merge-sort/)\
+[70.Quick sort]()\
+[71.Counting sort]()\
+[72.Heap sort]()\
+[73.Bubble sort]()\
 STRINGS:\
-[70.reverse words in a string](https://takeuforward.org/data-structure/reverse-words-in-a-string/)\
-[71.longest palindromic string(naive)](https://leetcode.com/problems/longest-palindromic-substring/)\
+[74.reverse words in a string](https://takeuforward.org/data-structure/reverse-words-in-a-string/)\
+[75.longest palindromic string(naive)](https://leetcode.com/problems/longest-palindromic-substring/)\
 TREES:\
-[72.Preorder](https://leetcode.com/problems/binary-tree-preorder-traversal/)\
-[73.Inorder](https://leetcode.com/problems/binary-tree-inorder-traversal/)\
-[74.Postorder](https://leetcode.com/problems/binary-tree-postorder-traversal/)\
-[75.level order](https://leetcode.com/problems/binary-tree-level-order-traversal/)\
-[76.preorder iterative](https://leetcode.com/problems/binary-tree-preorder-traversal/)\
-[77.Inorder iterative](https://leetcode.com/problems/binary-tree-inorder-traversal/)\
-[78.]
+[76.Preorder](https://leetcode.com/problems/binary-tree-preorder-traversal/)\
+[77.Inorder](https://leetcode.com/problems/binary-tree-inorder-traversal/)\
+[78.Postorder](https://leetcode.com/problems/binary-tree-postorder-traversal/)\
+[79.level order](https://leetcode.com/problems/binary-tree-level-order-traversal/)\
+[80.preorder iterative](https://leetcode.com/problems/binary-tree-preorder-traversal/)\
+[81.Inorder iterative](https://leetcode.com/problems/binary-tree-inorder-traversal/)\
+[82.max depth of a tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)\
+[83.check if balanced binary tree](https://leetcode.com/problems/balanced-binary-tree/)\
+[84.Diameter of a binary tree](https://leetcode.com/problems/diameter-of-binary-tree/)\
+[85.Width of a tree](https://leetcode.com/problems/maximum-width-of-binary-tree/)\
+[86.]
