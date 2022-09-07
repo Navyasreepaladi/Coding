@@ -80,12 +80,13 @@ LINKED LIST:\
 [66.]()\
 SORTING ALGO:\
 [67.Insertion sort](https://www.geeksforgeeks.org/insertion-sort/)\
-[68.Selection sort](https://www.geeksforgeeks.org/selection-sort/)\
+[68.Selection sort(TC:O(N^2) SC:O(N))](https://www.geeksforgeeks.org/selection-sort/)\
 [69.Merge sort](https://www.geeksforgeeks.org/merge-sort/)\
 [70.Quick sort Partition at begin & end](https://www.geeksforgeeks.org/quick-sort/)\
 [71.Counting sort]()\
 [72.Heap sort]()\
-[73.Bubble sort]()\
+[73.Bubble sort](https://www.geeksforgeeks.org/bubble-sort/)\
+[All sorting algo best avg worst TC's](https://www.geeksforgeeks.org/time-complexities-of-all-sorting-algorithms/)\
 STRINGS:\
 [74.reverse words in a string](https://takeuforward.org/data-structure/reverse-words-in-a-string/)\
 [75.longest palindromic string(naive)](https://leetcode.com/problems/longest-palindromic-substring/)\
