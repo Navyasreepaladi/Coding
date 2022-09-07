@@ -82,7 +82,7 @@ SORTING ALGO:\
 [67.Insertion sort](https://www.geeksforgeeks.org/insertion-sort/)\
 [68.Selection sort](https://www.geeksforgeeks.org/selection-sort/)\
 [69.Merge sort](https://www.geeksforgeeks.org/merge-sort/)\
-[70.Quick sort]()\
+[70.Quick sort Partition at begin & end](https://www.geeksforgeeks.org/quick-sort/)\
 [71.Counting sort]()\
 [72.Heap sort]()\
 [73.Bubble sort]()\
