@@ -101,4 +101,6 @@ TREES:\
 [83.check if balanced binary tree](https://leetcode.com/problems/balanced-binary-tree/)\
 [84.Diameter of a binary tree](https://leetcode.com/problems/diameter-of-binary-tree/)\
 [85.Width of a tree](https://leetcode.com/problems/maximum-width-of-binary-tree/)\
-[86.]
+[86.Max PathSum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)\
+[87.Check if 2 trees are identical](https://leetcode.com/problems/same-tree/)\
+[88.]
