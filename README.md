@@ -103,4 +103,6 @@ TREES:\
 [85.Width of a tree](https://leetcode.com/problems/maximum-width-of-binary-tree/)\
 [86.Max PathSum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)\
 [87.Check if 2 trees are identical](https://leetcode.com/problems/same-tree/)\
-[88.]
+[88.Binary Tree Zigzag level order](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)\
+[89.Boundary Traversal](https://www.geeksforgeeks.org/boundary-traversal-of-binary-tree/)\
+[90.Vertical order traversal](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)\
