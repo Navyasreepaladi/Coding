@@ -112,4 +112,5 @@ TREES:\
 [94.Left view]()\
 ARRAY-4:\
 [95.Two sums TC:O(N) SC:O(N)](https://leetcode.com/problems/two-sum/)\
-[]
+[96.Four sums TC:O(N^3) SC:O(1)](https://leetcode.com/problems/4sum/)\
+[97.]
