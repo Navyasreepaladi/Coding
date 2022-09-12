@@ -106,3 +106,10 @@ TREES:\
 [88.Binary Tree Zigzag level order](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)\
 [89.Boundary Traversal](https://www.geeksforgeeks.org/boundary-traversal-of-binary-tree/)\
 [90.Vertical order traversal](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)\
+[91.Top view]()\
+[92.Bottom view]()\
+[93.Right view]()\
+[94.Left view]()\
+ARRAY-4:\
+[95.Two sums TC:O(N) SC:O(N)](https://leetcode.com/problems/two-sum/)\
+[]
