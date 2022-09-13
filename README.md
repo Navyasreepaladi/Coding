@@ -1,13 +1,13 @@
 # leetcode 
-[1.TWO SUMS](https://leetcode.com/problems/two-sum/)\
-[2.Best stock selling and buying time](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)\
-[3.product of array except self](https://leetcode.com/problems/product-of-array-except-self/)\
-[4.maximun subarray](https://leetcode.com/problems/maximum-subarray/)\
+[1.TWO SUMS TC:O(N) SC :O(N) -easy](https://leetcode.com/problems/two-sum/)\
+[2.Best stock selling and buying time TC:O(N) SC:O(1)-easy](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)\
+[3.product of array except self TC:O(2N) SC:O(N)-Medium](https://leetcode.com/problems/product-of-array-except-self/)\
+[4.maximun subarray contiguous -TC:O(N) SC:O(1) -Medium](https://leetcode.com/problems/maximum-subarray/)\
 [5.max contiguous sub array gfg](https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/)\
-[6.longest sub string](https://leetcode.com/problems/longest-substring-without-repeating-characters/)\
-[7.binary sum of 2 integers](https://leetcode.com/problems/sum-of-two-integers/)\
-[8.cycle in linked list](https://leetcode.com/problems/linked-list-cycle/)\
-[9.merge of linked lists](https://leetcode.com/problems/merge-two-sorted-lists/)\
+[6.longest sub string without repeating characters -TC:O(N) -Medium](https://leetcode.com/problems/longest-substring-without-repeating-characters/)\
+[7.binary sum of 2 integers-Medium](https://leetcode.com/problems/sum-of-two-integers/)\
+[8.cycle in linked list -fast&slow-easy](https://leetcode.com/problems/linked-list-cycle/)\
+[9.merge of linked lists-TC:O(M+N) SC:O(1)](https://leetcode.com/problems/merge-two-sorted-lists/)\
 [10.valid anagram](https://leetcode.com/problems/valid-anagram/)\
 [11.Group Anagram](https://leetcode.com/problems/group-anagrams/)\
 [12.contain duplicate](https://leetcode.com/problems/contains-duplicate/)\
