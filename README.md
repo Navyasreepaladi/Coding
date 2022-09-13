@@ -8,14 +8,14 @@
 [7.binary sum of 2 integers-Medium](https://leetcode.com/problems/sum-of-two-integers/)\
 [8.cycle in linked list -fast&slow-easy](https://leetcode.com/problems/linked-list-cycle/)\
 [9.merge of linked lists-TC:O(M+N) SC:O(1)](https://leetcode.com/problems/merge-two-sorted-lists/)\
-[10.valid anagram](https://leetcode.com/problems/valid-anagram/)\
-[11.Group Anagram](https://leetcode.com/problems/group-anagrams/)\
-[12.contain duplicate](https://leetcode.com/problems/contains-duplicate/)\
-[13.remove k digits](https://leetcode.com/problems/remove-k-digits/)\
+[10.valid anagram -TC:O(N) SC:O(N)/O(1) -easy](https://leetcode.com/problems/valid-anagram/)\
+[11.Group Anagram-TC:O(2N) -Medium](https://leetcode.com/problems/group-anagrams/)\
+[12.contain duplicate-TC:O(N) -easy](https://leetcode.com/problems/contains-duplicate/)\
+[13.remove k digits -medium](https://leetcode.com/problems/remove-k-digits/)\
 [14.reconstruct original digits from english](https://leetcode.com/problems/reconstruct-original-digits-from-english/)\
 [15.expressive words](https://leetcode.com/problems/expressive-words/)\
 DS STUDY PLAN LEETCODE:\
-[16.contains duplicate](https://leetcode.com/problems/contains-duplicate/)\
+[16.contains duplicate-easy](https://leetcode.com/problems/contains-duplicate/)\
 [17.merge sorted array](https://leetcode.com/problems/merge-sorted-array/)\
 [18.reshape the matrix](https://leetcode.com/problems/reshape-the-matrix/)\
 [19.fast input fast output](https://www.javatpoint.com/fast-input-and-output-in-cpp)\
@@ -23,7 +23,7 @@ DS STUDY PLAN LEETCODE:\
 [21.search a 2D matrix](https://leetcode.com/problems/search-a-2d-matrix/)\
 [22.First Unique Character in a string](https://leetcode.com/problems/first-unique-character-in-a-string/)\
 [23.Ransom Note](https://leetcode.com/problems/ransom-note/)\
-[24.Valid Anagram](https://leetcode.com/problems/valid-anagram/)\
+[24.Valid Anagram-easy](https://leetcode.com/problems/valid-anagram/)\
 [25.Remove Linked List elements](https://leetcode.com/problems/remove-linked-list-elements/)\
 [26.Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)\
 [28.Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)\
