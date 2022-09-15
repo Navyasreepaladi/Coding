@@ -12,8 +12,8 @@
 [11.Group Anagram-TC:O(2N) -Medium](https://leetcode.com/problems/group-anagrams/)\
 [12.contain duplicate-TC:O(N) -easy](https://leetcode.com/problems/contains-duplicate/)\
 [13.remove k digits -medium](https://leetcode.com/problems/remove-k-digits/)\
-[14.reconstruct original digits from english](https://leetcode.com/problems/reconstruct-original-digits-from-english/)\
-[15.expressive words](https://leetcode.com/problems/expressive-words/)\
+[14.reconstruct original digits from english-Medium](https://leetcode.com/problems/reconstruct-original-digits-from-english/)\
+[15.expressive words-Medium](https://leetcode.com/problems/expressive-words/)\
 DS STUDY PLAN LEETCODE:\
 [16.contains duplicate-easy](https://leetcode.com/problems/contains-duplicate/)\
 [17.merge sorted array](https://leetcode.com/problems/merge-sorted-array/)\
