@@ -27,7 +27,7 @@ DS STUDY PLAN LEETCODE:\
 [25.Remove Linked List elements-Easy](https://leetcode.com/problems/remove-linked-list-elements/)\
 [26.Reverse Linked List-Easy](https://leetcode.com/problems/reverse-linked-list/)\
 [28.Remove Duplicates from Sorted List-Easy](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)\
-[29.Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)\
+[29.Valid Parentheses-easy](https://leetcode.com/problems/valid-parentheses/)\
 [30.Implementing Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)\
 [31.Binary Tree Preorder Travsersal](https://leetcode.com/problems/binary-tree-preorder-traversal/)\
 [32.Largest lexicographical string with at most K consecutive elements](https://www.geeksforgeeks.org/largest-lexicographical-string-with-at-most-k-consecutive-elements/)\
