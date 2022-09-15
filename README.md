@@ -16,17 +16,17 @@
 [15.expressive words-Medium](https://leetcode.com/problems/expressive-words/)\
 DS STUDY PLAN LEETCODE:\
 [16.contains duplicate-easy](https://leetcode.com/problems/contains-duplicate/)\
-[17.merge sorted array](https://leetcode.com/problems/merge-sorted-array/)\
-[18.reshape the matrix](https://leetcode.com/problems/reshape-the-matrix/)\
-[19.fast input fast output](https://www.javatpoint.com/fast-input-and-output-in-cpp)\
-[20.valid sudoko](https://leetcode.com/problems/valid-sudoku/)\
-[21.search a 2D matrix](https://leetcode.com/problems/search-a-2d-matrix/)\
-[22.First Unique Character in a string](https://leetcode.com/problems/first-unique-character-in-a-string/)\
-[23.Ransom Note](https://leetcode.com/problems/ransom-note/)\
+[17.merge sorted array-Easy](https://leetcode.com/problems/merge-sorted-array/)\
+[18.reshape the matrix-easy](https://leetcode.com/problems/reshape-the-matrix/)\
+[19.fast input fast output ios_base::sync_with_stdio(false);cin.tie(NULL);](https://www.javatpoint.com/fast-input-and-output-in-cpp)\
+[20.valid sudoko-Medium](https://leetcode.com/problems/valid-sudoku/)\
+[21.search a 2D matrix-Medium](https://leetcode.com/problems/search-a-2d-matrix/)\
+[22.First Unique Character in a string-Easy(for maps)](https://leetcode.com/problems/first-unique-character-in-a-string/)\
+[23.Ransom Note-easy(find in strings-size_t,string::npos)](https://leetcode.com/problems/ransom-note/)\
 [24.Valid Anagram-easy](https://leetcode.com/problems/valid-anagram/)\
-[25.Remove Linked List elements](https://leetcode.com/problems/remove-linked-list-elements/)\
-[26.Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)\
-[28.Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)\
+[25.Remove Linked List elements-Easy](https://leetcode.com/problems/remove-linked-list-elements/)\
+[26.Reverse Linked List-Easy](https://leetcode.com/problems/reverse-linked-list/)\
+[28.Remove Duplicates from Sorted List-Easy](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)\
 [29.Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)\
 [30.Implementing Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)\
 [31.Binary Tree Preorder Travsersal](https://leetcode.com/problems/binary-tree-preorder-traversal/)\
