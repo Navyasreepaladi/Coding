@@ -49,7 +49,7 @@ DP:\
 [44.FIBONACCI](https://leetcode.com/problems/fibonacci-number/submissions/)\
 [45.Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)\
 GREEDY ALGO:\
-[46.N MEETINGS IN ONE ROOM -GFG](https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1)\
+[46.N MEETINGS IN ONE ROOM -GFG-TC:O(N)+O(N)+O(N*LOG(N)) SC:O(N)](https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1)\
 [47.N MEETINGS IN ONE ROOM- SDE](https://takeuforward.org/data-structure/n-meetings-in-one-room/)\
 RECURSION:\
 [48.SUBSET SUM](https://takeuforward.org/data-structure/subset-sum-sum-of-all-subsets/)\
@@ -114,3 +114,6 @@ ARRAY-4:\
 [95.Two sums TC:O(N) SC:O(N)](https://leetcode.com/problems/two-sum/)\
 [96.Four sums TC:O(N^3) SC:O(1)](https://leetcode.com/problems/4sum/)\
 [97.]
+GREEDY ALGO:\
+[98.Minimum Platforms TC:O(2N*logN)+O(2N) SC:O(1)](https://practice.geeksforgeeks.org/problems/minimum-platforms-1587115620/1#)\
+
