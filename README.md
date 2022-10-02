@@ -111,6 +111,7 @@ TREES:\
 [93.Right view]()\
 [94.Left view]()\
 [95.postorder traversal using 2 stacks(ITERATIVE)](https://leetcode.com/problems/binary-tree-postorder-traversal/)\
+[96.postorder using 1 stack(ITERATIVE)](https://leetcode.com/problems/binary-tree-postorder-traversal/)\
 ARRAY-4:\
 [131.Two sums TC:O(N) SC:O(N)](https://leetcode.com/problems/two-sum/)\
 [132.Four sums TC:O(N^3) SC:O(1)](https://leetcode.com/problems/4sum/)\
