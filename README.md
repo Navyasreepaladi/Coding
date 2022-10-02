@@ -110,10 +110,11 @@ TREES:\
 [92.Bottom view]()\
 [93.Right view]()\
 [94.Left view]()\
+[95.postorder traversal using 2 stacks(ITERATIVE)](https://leetcode.com/problems/binary-tree-postorder-traversal/)\
 ARRAY-4:\
-[95.Two sums TC:O(N) SC:O(N)](https://leetcode.com/problems/two-sum/)\
-[96.Four sums TC:O(N^3) SC:O(1)](https://leetcode.com/problems/4sum/)\
-[97.]
+[131.Two sums TC:O(N) SC:O(N)](https://leetcode.com/problems/two-sum/)\
+[132.Four sums TC:O(N^3) SC:O(1)](https://leetcode.com/problems/4sum/)\
+[133.]
 GREEDY ALGO:\
-[98.Minimum Platforms TC:O(2N*logN)+O(2N) SC:O(1)](https://practice.geeksforgeeks.org/problems/minimum-platforms-1587115620/1#)\
+[134.Minimum Platforms TC:O(2N*logN)+O(2N) SC:O(1)](https://practice.geeksforgeeks.org/problems/minimum-platforms-1587115620/1#)\
 
